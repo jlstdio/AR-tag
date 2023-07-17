@@ -9,6 +9,6 @@ Study of making AR 3D model on web using QR code tracking.
 
 A Tag(Marker) used for this site
 
-![Example marker](https://github.com/JoonLee-K/AR-tag/blob/master/pattern-yehs.jpg)
+![Example marker](https://github.com/JoonLee-K/AR-tag/blob/master/pattern-yehs.png)
 
 
